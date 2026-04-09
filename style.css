@@ -427,3 +427,206 @@ html { scroll-behavior: smooth; }
     .skill-icon-wrap { width: 44px; height: 44px; min-width: 44px; }
 }
 
+/* ── Stat card — vision variant ───────────────────────────────── */
+.stat-card-vision {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    padding: 20px 16px;
+    background: linear-gradient(135deg, rgba(0, 245, 255, 0.05), rgba(124, 58, 237, 0.05));
+    border-color: rgba(0, 245, 255, 0.15);
+}
+.stat-vision-icon {
+    font-size: 1.6rem;
+    line-height: 1;
+}
+.stat-vision-text {
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #00f5ff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    line-height: 1.4;
+}
+
+/* ── Axioma GuruDev section ───────────────────────────────────── */
+.axioma-section {
+    background: radial-gradient(ellipse at 70% 50%, rgba(124, 58, 237, 0.04) 0%, transparent 60%),
+                radial-gradient(ellipse at 20% 40%, rgba(0, 245, 255, 0.03) 0%, transparent 60%);
+}
+
+.orb-axioma-cyan {
+    width: 600px; height: 600px;
+    background: rgba(0, 245, 255, 0.06);
+    top: 5%; right: -150px;
+}
+.orb-axioma-purple {
+    width: 450px; height: 450px;
+    background: rgba(124, 58, 237, 0.07);
+    bottom: 5%; left: -100px;
+}
+
+.axioma-subtitle {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.85rem;
+    color: #7c3aed;
+    letter-spacing: 0.08em;
+    margin-top: 0.5rem;
+    display: block;
+}
+
+/* Main axioma card */
+.axioma-card {
+    background: rgba(13, 17, 23, 0.7);
+    border: 1px solid rgba(0, 245, 255, 0.12);
+    border-radius: 20px;
+    overflow: hidden;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+.axioma-card:hover {
+    border-color: rgba(0, 245, 255, 0.25);
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(0, 245, 255, 0.08);
+}
+.axioma-card-header {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 20px 28px;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    background: linear-gradient(90deg, rgba(0, 245, 255, 0.04), rgba(124, 58, 237, 0.04));
+}
+.axioma-card-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #ffffff;
+    flex: 1;
+    min-width: 180px;
+}
+.axioma-card-body { padding: 28px; }
+.axioma-badges { display: flex; flex-wrap: wrap; gap: 8px; }
+
+/* Axioma badges */
+.axioma-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+}
+.axioma-badge-manus {
+    background: rgba(0, 245, 255, 0.1);
+    border: 1px solid rgba(0, 245, 255, 0.3);
+    color: #00f5ff;
+}
+.axioma-badge-ai {
+    background: rgba(124, 58, 237, 0.1);
+    border: 1px solid rgba(124, 58, 237, 0.3);
+    color: #a78bfa;
+}
+.axioma-badge-date {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #6b7280;
+}
+
+/* Concept cards */
+.axioma-concept-card {
+    background: rgba(13, 17, 23, 0.55);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 14px;
+    padding: 24px;
+    transition: border-color 0.3s, transform 0.3s, box-shadow 0.3s;
+}
+.axioma-concept-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+}
+.axioma-concept-card--d5 {
+    border-color: rgba(251, 191, 36, 0.12);
+}
+.axioma-concept-card--d5:hover {
+    border-color: rgba(251, 191, 36, 0.3);
+    box-shadow: 0 12px 32px rgba(251, 191, 36, 0.08);
+}
+.axioma-concept-icon {
+    width: 44px; height: 44px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 14px;
+}
+.axioma-concept-title {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-family: 'JetBrains Mono', monospace;
+}
+.axioma-concept-desc {
+    font-size: 0.85rem;
+    line-height: 1.65;
+    color: #9ca3af;
+}
+
+/* Applications tags */
+.axioma-applications {
+    background: rgba(13, 17, 23, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 14px;
+    padding: 20px 24px;
+}
+.axioma-app-tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px 13px;
+    background: rgba(124, 58, 237, 0.08);
+    border: 1px solid rgba(124, 58, 237, 0.2);
+    border-radius: 999px;
+    font-size: 0.78rem;
+    color: #a78bfa;
+    transition: background 0.2s, border-color 0.2s, transform 0.2s;
+    cursor: default;
+}
+.axioma-app-tag:hover {
+    background: rgba(124, 58, 237, 0.15);
+    border-color: rgba(124, 58, 237, 0.4);
+    transform: translateY(-2px);
+}
+
+/* Quote block */
+.axioma-quote-block {
+    background: linear-gradient(135deg, rgba(0, 245, 255, 0.04), rgba(124, 58, 237, 0.06));
+    border: 1px solid rgba(0, 245, 255, 0.1);
+    border-left: 3px solid #00f5ff;
+    border-radius: 0 14px 14px 0;
+    padding: 24px 28px;
+}
+.axioma-quote {
+    font-style: italic;
+    font-size: 1rem;
+    color: #e5e7eb;
+    line-height: 1.7;
+    margin-bottom: 14px;
+}
+.axioma-quote-author {
+    font-size: 0.85rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px;
+}
+
+@media (max-width: 640px) {
+    .axioma-card-header { flex-direction: column; }
+    .axioma-concept-title { font-size: 0.9rem; }
+}
+
