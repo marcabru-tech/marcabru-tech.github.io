@@ -39,6 +39,26 @@ html { scroll-behavior: smooth; }
     to   { opacity: 1; transform: scale(1); }
 }
 
+@keyframes neonSpin {
+    from { transform: rotate(0deg); }
+    to   { transform: rotate(360deg); }
+}
+
+@keyframes neonGlowPulse {
+    0%, 100% {
+        filter:
+            drop-shadow(0 0  6px #00f5ff)
+            drop-shadow(0 0 18px #00f5ff)
+            drop-shadow(0 0 36px rgba(0, 245, 255, 0.65));
+    }
+    50% {
+        filter:
+            drop-shadow(0 0 10px #a855f7)
+            drop-shadow(0 0 28px #7c3aed)
+            drop-shadow(0 0 55px rgba(124, 58, 237, 0.80));
+    }
+}
+
 /* ── Particle canvas ──────────────────────────────────────────── */
 #particles-canvas {
     background: transparent;
@@ -79,6 +99,16 @@ html { scroll-behavior: smooth; }
     background: conic-gradient(from 0deg, #00f5ff, #0080ff, #7c3aed, transparent 60%);
     animation: avatarRing 4s linear infinite;
     z-index: 1;
+}
+
+/* ── Spinning neon image ──────────────────────────────────────── */
+.neon-rotating-img {
+    animation: neonSpin 10s linear infinite, neonGlowPulse 3s ease-in-out infinite;
+    display: block;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
 }
 
 /* ── Typing cursor ────────────────────────────────────────────── */
