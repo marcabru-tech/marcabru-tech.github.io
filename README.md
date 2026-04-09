@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermegoncalvesmachado-0080ff?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilhermegoncalvesmachado)
 [![GitHub](https://img.shields.io/badge/GitHub-marcabru--tech-7c3aed?style=flat-square&logo=github)](https://github.com/marcabru-tech)
 [![License: BSL](https://img.shields.io/badge/License-BSL%201.1-yellow?style=flat-square)](LICENSE)
-[![Colaboração Manus AI](https://img.shields.io/badge/Colaboração-Manus%20AI-00f5ff?style=flat-square)](https://manus.im)
 
 ---
 
@@ -55,14 +54,14 @@ Guilherme lidera a **Marcabru Tech** com foco em tecnologia, automação e inova
 ### Competências Principais
 
 - **Automação** (92%) — Desenvolvimento e implementação de fluxos automatizados para maximizar eficiência operacional com ferramentas como n8n, Make (Integromat) e scripts personalizados.
-- **Inteligência Artificial** (88%) — Aplicação de agentes de IA (Manus, OpenAI), integração de LLMs, optimização de workflows cognitivos e tomada de decisão aumentada.
+- **Inteligência Artificial** (88%) — Aplicação de agentes de IA (OpenAI), integração de LLMs, optimização de workflows cognitivos e tomada de decisão aumentada.
 - **Integração de Ferramentas** (85%) — Arquitecturas coesas entre Zoho Mail, Slack, GitHub, Notion, REST APIs, Webhooks e múltiplas plataformas SaaS.
 - **Gestão de Infraestrutura Tech** (90%) — Supervisão e optimização de infra para garantir escalabilidade, segurança e performance em ambientes de produção.
 
 ### Tech Stack
 
 ```
-GitHub · Slack · Zoho Mail · n8n · Make (Integromat) · OpenAI API · Manus AI
+GitHub · Slack · Zoho Mail · n8n · Make (Integromat) · OpenAI API
 Python · JavaScript (ES6+) · Linux · Docker · Notion · Tailwind CSS
 HTML5 / CSS3 · REST APIs · Webhooks · CI/CD · GitHub Pages
 ```
@@ -95,7 +94,7 @@ Liderança e desenvolvimento de soluções tecnológicas inovadoras para diverso
 
 > **Paradigma Conceitual em Inteligência Artificial**
 >
-> *Guilherme Gonçalves Machado · em colaboração com Manus AI · 09/04/2026*
+> *Guilherme Gonçalves Machado · 09/04/2026*
 
 ---
 
@@ -215,7 +214,6 @@ Axioma GuruDev — Analisador de Regularidade Contextual
 Mede a densidade e coerência do contexto fornecido a um agente de IA.
 
 Autor: Guilherme Gonçalves Machado
-Colaboração: Manus AI
 Data: 09/04/2026
 """
 
@@ -392,7 +390,7 @@ if __name__ == "__main__":
 3. Zhao, W.X. et al. (2023). *A Survey of Large Language Models*. [arXiv:2303.18223](https://arxiv.org/abs/2303.18223)
 4. Mialon, G. et al. (2023). *Augmented Language Models: a Survey*. [arXiv:2302.07842](https://arxiv.org/abs/2302.07842)
 5. Park, J.S. et al. (2023). *Generative Agents: Interactive Simulacra of Human Behavior*. UIST 2023. [arXiv:2304.03442](https://arxiv.org/abs/2304.03442)
-6. Machado, G.G. & Manus AI. (2026). *O Axioma GuruDev: Navegando os Infinitos Contextual e Computacional*. Marcabru Tech Internal Working Paper.
+6. Machado, G.G. (2026). *O Axioma GuruDev: Navegando os Infinitos Contextual e Computacional*. Marcabru Tech Internal Working Paper.
 
 ---
 
@@ -402,16 +400,113 @@ if __name__ == "__main__":
 
 ---
 
-## 📬 Contacto & Links Sociais
+## 📖 Documento Dissertativo-Argumentativo: Dodecálogo Hubstry/GuruDev
 
-| Plataforma | Link |
-|---|---|
-| 💼 LinkedIn | [guilhermegoncalvesmachado](https://www.linkedin.com/in/guilhermegoncalvesmachado) |
-| 🐙 GitHub | [marcabru-tech](https://github.com/marcabru-tech) |
-| 📘 Facebook | [guilhermemachadodonorte](https://www.facebook.com/guilhermemachadodonorte) |
-| 🌐 Website | [marcabru-tech.github.io](https://marcabru-tech.github.io) |
+> *Guilherme Gonçalves Machado · CEO Marcabru Tech · 2026*
 
 ---
+
+### Introdução
+
+O **Dodecálogo Hubstry/GuruDev** é um manifesto fundacional composto por doze princípios que estruturam a visão pedagógica, tecnológica e social da plataforma **Hubstry** — um ecossistema EdTech de alta intensidade que integra o paradigma **GuruDev** no centro da sua proposta educativa.
+
+A **Hubstry** nasce da convergência entre a urgência de democratizar o acesso ao desenvolvimento tecnológico e a crença de que a educação orientada por IA pode catalizar transformações sociais profundas e duradouras. O paradigma GuruDev serve de bússola conceptual: um framework que articula aprendizagem contínua, autonomia cognitiva e co-evolução humano-máquina.
+
+Este documento apresenta os fundamentos filosóficos, as justificativas estratégicas, o impacto social esperado, os dados do mercado EdTech e o roadmap 2025/2030 que orientam a construção deste ecossistema.
+
+---
+
+### Justificativa
+
+O mundo atravessa uma ruptura tecnológica sem precedentes. A proliferação de modelos de linguagem de grande escala (LLMs), ferramentas de automação e plataformas de IA generativa redefine os requisitos profissionais a um ritmo superior à capacidade de adaptação dos sistemas educativos tradicionais. Neste cenário, a **lacuna de competências digitais** torna-se um dos maiores riscos de exclusão social e económica do século XXI.
+
+A Hubstry surge como resposta estruturada a esta lacuna: uma plataforma que não apenas ensina tecnologia, mas forma *arquitectos de soluções* — profissionais capazes de orquestrar ferramentas de IA, automatizar fluxos complexos e criar valor em contextos de alta incerteza. O modelo GuruDev posiciona cada aprendente como agente activo da sua própria evolução cognitiva.
+
+A aposta na intersecção EdTech × IA × Ecossistema de Startups não é apenas estratégica — é um imperativo social. Cada developer formado pela Hubstry é um multiplicador de impacto no seu contexto comunitário e profissional.
+
+---
+
+### Conteúdos Expandidos — Os 12 Princípios
+
+| # | Princípio | Descrição |
+|---|---|---|
+| **01** | **Aprendizagem Contínua** | O conhecimento tecnológico tem meia-vida cada vez mais curta. A Hubstry cultiva a mentalidade de aprendizagem permanente como competência fundamental, não como recurso ocasional. |
+| **02** | **Autonomia Cognitiva** | Cada aprendente é arquitecto do seu próprio percurso. O GuruDev orienta sem prescrever, fornecendo scaffolding adaptativo que respeita estilos e ritmos individuais. |
+| **03** | **IA como Amplificador Humano** | A inteligência artificial não substitui o developer — amplifica as suas capacidades. A Hubstry forma profissionais que dirigem agentes de IA com intencionalidade e precisão técnica. |
+| **04** | **Prática sobre Teoria** | Projectos reais, clientes reais, problemas reais. O modelo pedagógico privilegia a aprendizagem baseada em desafios com impacto mensurável no mundo exterior. |
+| **05** | **Ecossistema sobre Produto** | A Hubstry não é uma plataforma isolada — é um nó num ecossistema vivo de startups, mentores, investidores e comunidades técnicas que se alimentam mutuamente. |
+| **06** | **Democratização do Acesso** | Competência técnica de elite não pode ser privilégio de poucos. A Hubstry opera com modelos de acesso flexíveis, incluindo bolsas baseadas em mérito e parcerias comunitárias. |
+| **07** | **Contexto como Vantagem Competitiva** | Inspirado pelo Infinito Contextual do Axioma GuruDev: quem domina a arte de fornecer contexto de qualidade a sistemas de IA domina o mercado tecnológico do século XXI. |
+| **08** | **Automação como Libertação** | Automatizar tarefas repetitivas não é eliminar empregos — é libertar o potencial humano para actividades de maior criatividade, estratégia e impacto social. |
+| **09** | **Comunidade como Motor de Inovação** | O conhecimento cresce exponencialmente quando partilhado. A Hubstry cultiva comunidades de prática onde cada membro é simultaneamente aprendente e mentor. |
+| **10** | **Ética e Responsabilidade Tecnológica** | Todo developer formado pela Hubstry compreende que tecnologia poderosa exige responsabilidade proporcional. Ética de IA e design inclusivo são fundamentos, não opções. |
+| **11** | **Métricas de Impacto Real** | O sucesso mede-se não apenas em matrículas ou receita, mas em vidas transformadas, startups criadas, problemas comunitários resolvidos e rendimentos alterados. |
+| **12** | **Co-evolução Contínua** | A própria Hubstry evolui com os seus aprendentes e o ecossistema tecnológico. O modelo é vivo: adapta-se, melhora e reimagina-se com cada ciclo de aprendizagem colectiva. |
+
+---
+
+### Impacto Social com Teoria da Mudança
+
+A Teoria da Mudança da Hubstry parte de uma premissa simples:
+
+> **Acesso a educação tecnológica de qualidade → Competências digitais → Empregabilidade e empreendedorismo → Redução de desigualdades → Desenvolvimento comunitário sustentável**
+
+#### Cadeia de Valor
+
+| Fase | Descrição |
+|---|---|
+| **Input** | Formação técnica intensiva, mentoria por pares, projectos reais e acesso a ferramentas de IA de ponta |
+| **Output** | Developers qualificados, startups fundadas, APIs publicadas, produtos lançados e comunidades técnicas activas |
+| **Outcome** | Inclusão digital, geração de rendimento, inovação local, redução da fuga de talentos e ecossistema de startups vibrante |
+
+O modelo de impacto é reforçado por loops de feedback positivo: ex-aprendentes tornam-se mentores, startups geradas reinvestem no ecossistema, e o sucesso comprovado atrai novos parceiros e financiamento para expandir o alcance.
+
+---
+
+### Dados Actualizados do Mercado EdTech (2024/2025)
+
+| Métrica | Valor | Fonte |
+|---|---|---|
+| **Mercado global EdTech** | $400B (projecção 2025) | HolonIQ, 2024 |
+| **CAGR do sector EdTech** | 16.3% (2023–2028) | HolonIQ, 2024 |
+| **Postos em risco de automação** | 85M até 2025 | World Economic Forum, 2023 |
+| **Novos roles relacionados com IA** | 97M até 2025 | World Economic Forum, 2023 |
+| **Potencial económico da IA generativa** | $4.4T/ano | McKinsey Global Institute, 2023 |
+
+O segmento de **upskilling e reskilling técnico** representa o maior vector de crescimento dentro do EdTech global, impulsionado pela procura corporativa de competências em IA, automação e cloud. Plataformas focadas em aprendizagem prática e projectos reais têm taxas de conclusão até 3× superiores às plataformas de e-learning tradicionais.
+
+Em Portugal e mercados lusófonos, a penetração do EdTech avançado permanece subdesenvolvida face ao potencial — criando uma janela de oportunidade estratégica única para plataformas com proposta de valor diferenciada como a Hubstry.
+
+---
+
+### Roadmap 2025/2030
+
+| Ano | Marco | Objectivos |
+|---|---|---|
+| **2025** | Fundação e MVP | Lançamento da plataforma com primeiras trilhas em Automação, IA e Desenvolvimento Web. Primeiras 100 matrículas e 3 projectos reais entregues. |
+| **2026** | Expansão e Comunidade | Escalonamento para 1.000 aprendentes activos. Programa de mentoria por pares e primeiras parcerias com empresas para colocação profissional directa. |
+| **2027** | Ecossistema de Startups | Lançamento do programa acelerador Hubstry Ventures, apoiando as primeiras 10 startups. Integração de IA generativa no motor pedagógico. |
+| **2028** | Internacionalização | Expansão para mercados lusófonos (Brasil, Angola, Moçambique). 5.000 aprendentes activos. Certificações reconhecidas pelo mercado internacional. |
+| **2030** | Referência Global EdTech × IA | 20.000+ aprendentes, 100+ startups no ecossistema. Referência global em EdTech orientado por IA para mercados lusófonos. |
+
+---
+
+### Referências
+
+1. World Economic Forum. (2023). *Future of Jobs Report 2023*. WEF. [weforum.org](https://www.weforum.org/reports/the-future-of-jobs-report-2023)
+2. HolonIQ. (2024). *Global EdTech Market 2024 Report*. HolonIQ Intelligence. [holoniq.com](https://www.holoniq.com)
+3. UNESCO. (2023). *Technology in Education: A Tool on Whose Terms?* UNESCO Global Education Monitoring Report.
+4. McKinsey Global Institute. (2023). *The Economic Potential of Generative AI*. McKinsey & Company.
+5. Brown, T. et al. (2020). *Language Models are Few-Shot Learners*. NeurIPS 2020. [arXiv:2005.14165](https://arxiv.org/abs/2005.14165)
+6. Machado, G.G. (2026). *O Axioma GuruDev: Navegando os Infinitos Contextual e Computacional*. Marcabru Tech Working Paper.
+
+> *"Educar com IA não é substituir o professor — é ampliar o horizonte do que é possível aprender, criar e transformar."*
+>
+> — **Guilherme Gonçalves Machado**, CEO Marcabru Tech · 2026
+
+---
+
+## 📬 Contacto & Links Sociais
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -501,23 +596,28 @@ Este projecto é disponibilizado sob a **Business Source License (BSL) 1.1**:
 - ❌ **Redistribuição comercial**: Não permitida sem autorização escrita
 - 📧 **Licenciamento comercial**: Contactar via [LinkedIn](https://www.linkedin.com/in/guilhermegoncalvesmachado)
 
-> O conteúdo conceptual do **Axioma GuruDev** (texto, frameworks, código de análise) é propriedade intelectual de Guilherme Gonçalves Machado, desenvolvido em colaboração com Manus AI, e está sujeito aos termos da BSL acima. Citações académicas são permitidas com atribuição adequada.
+> O conteúdo conceptual do **Axioma GuruDev** e do **Dodecálogo Hubstry/GuruDev** (texto, frameworks, código de análise) é propriedade intelectual de Guilherme Gonçalves Machado e está sujeito aos termos da BSL acima. Citações académicas são permitidas com atribuição adequada.
 
 ---
 
-## ✍️ Autoria & Colaboração
+## ✍️ Autoria
 
 | Papel | Pessoa/Sistema |
 |---|---|
 | **Autor & Arquitecto** | Guilherme Gonçalves Machado |
 | **CEO / Tech Leader** | Marcabru Tech |
-| **Colaboração IA** | Manus AI |
 | **Data de Criação** | 09/04/2026 |
 | **Última Actualização** | 09/04/2026 |
 
 ---
 
 ## 📋 Changelog
+
+### v3.0.0 — 09/04/2026
+- ✅ Adição do **Dodecálogo Hubstry/GuruDev** — nova secção completa na página e no README
+- ✅ Remoção total de todas as menções a "Manus AI" (badges, créditos, comentários, textos)
+- ✅ Nav actualizado com link para nova secção Dodecálogo
+- ✅ README actualizado com documento dissertativo integral
 
 ### v2.0.0 — 09/04/2026
 - ✅ Actualização de métricas: "Projetos Entregues" → "Projetos Desenvolvidos"
@@ -528,7 +628,6 @@ Este projecto é disponibilizado sob a **Business Source License (BSL) 1.1**:
 - ✅ README completamente reescrito com ensaio completo do Axioma GuruDev
 - ✅ Glossário técnico, referências académicas e código Python de análise
 - ✅ Licença actualizada para BSL 1.1
-- ✅ Documentação de autoria e colaboração com Manus AI
 
 ### v1.0.0 — 2026 (inicial)
 - Portfolio moderno com Tailwind CSS, partículas, animações e formulário de contacto
