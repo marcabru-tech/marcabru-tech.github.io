@@ -40,8 +40,13 @@ html { scroll-behavior: smooth; }
 }
 
 @keyframes neonSpin {
-    from { transform: rotate(0deg); }
-    to   { transform: rotate(360deg); }
+    from { transform: rotateZ(0deg); }
+    to   { transform: rotateZ(360deg); }
+}
+
+@keyframes neonSpinX {
+    from { transform: rotateX(0deg); }
+    to   { transform: rotateX(360deg); }
 }
 
 @keyframes neonGlowPulse {
@@ -102,8 +107,23 @@ html { scroll-behavior: smooth; }
 }
 
 /* ── Spinning neon image ──────────────────────────────────────── */
+
+/* Perspective stage — enables 3-D depth */
+.neon-3d-stage {
+    perspective: 600px;
+    perspective-origin: center center;
+}
+
+/* Z-axis (clockwise) rotation wrapper */
+.neon-spin-z {
+    display: inline-block;
+    transform-style: preserve-3d;
+    animation: neonSpin 10s linear infinite;
+}
+
+/* X-axis (north-south / vertical flip) rotation + neon glow */
 .neon-rotating-img {
-    animation: neonSpin 10s linear infinite, neonGlowPulse 3s ease-in-out infinite;
+    animation: neonSpinX 5s linear infinite, neonGlowPulse 3s ease-in-out infinite;
     display: block;
     border-radius: 50%;
     width: 140px;
