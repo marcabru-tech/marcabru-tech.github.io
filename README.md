@@ -8,6 +8,9 @@
 [![License: BSL](https://img.shields.io/badge/License-BSL%201.1-yellow?style=flat-square)](LICENSE)
 
 ---
+# Hubstry - Deep Tech Holding (hubstry.dev)
+Repositório oficial do ecossistema Hubstry. 
+Mantido pela unidade de tecnologia e desenvolvimento, Marcabru Tech.
 
 ## 👤 Sobre Guilherme Machado
 
