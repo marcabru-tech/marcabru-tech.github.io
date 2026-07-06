@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-PT">
 <head>
@@ -282,20 +283,6 @@
   <button class="active" onclick="setLang('pt')" id="btn-pt">PT</button>
   <button onclick="setLang('en')" id="btn-en">EN</button>
 </div>
-
-<script>
-function setLang(lang){
-  document.querySelectorAll('[data-lang]').forEach(el=>el.classList.remove('active','active-inline'));
-  document.querySelectorAll('[data-lang="'+lang+'"]').forEach(el=>{
-    if(el.tagName==='SPAN'||el.tagName==='A'||el.tagName==='SMALL')el.classList.add('active-inline');
-    else el.classList.add('active');
-  });
-  document.getElementById('btn-pt').classList.toggle('active',lang==='pt');
-  document.getElementById('btn-en').classList.toggle('active',lang==='en');
-  document.documentElement.lang = lang==='pt' ? 'pt-PT' : 'en';
-}
-setLang('pt');
-</script>
 
 <!-- HERO -->
 <div class="hero">
@@ -653,8 +640,23 @@ setLang('pt');
 <!-- FOOTER -->
 <footer>
   <span>Hubstry Deep Tech · Rio de Janeiro · <b>Guilherme Gonçalves Machado</b>, <span data-lang="pt">Fundador e CEO</span><span data-lang="en">Founder & CEO</span> · ORCID 0009-0008-1083-0784</span>
-  <div class="confid">· © 2026 Hubstry Deep Tech · <span data-lang="pt"></span><span data-lang="en"></span></div>
+  <div class="confid">© 2026 Hubstry Deep Tech · <span data-lang="pt">Todos os direitos reservados.</span><span data-lang="en">All rights reserved.</span></div>
 </footer>
 
+<script>
+function setLang(lang){
+  document.querySelectorAll('[data-lang]').forEach(el=>el.classList.remove('active','active-inline'));
+  document.querySelectorAll('[data-lang="'+lang+'"]').forEach(el=>{
+    if(el.tagName==='SPAN'||el.tagName==='A'||el.tagName==='SMALL')el.classList.add('active-inline');
+    else el.classList.add('active');
+  });
+  document.getElementById('btn-pt').classList.toggle('active',lang==='pt');
+  document.getElementById('btn-en').classList.toggle('active',lang==='en');
+  document.documentElement.lang = lang==='pt' ? 'pt-PT' : 'en';
+}
+document.addEventListener('DOMContentLoaded', function(){
+  setLang('pt');
+});
+</script>
 </body>
 </html>
