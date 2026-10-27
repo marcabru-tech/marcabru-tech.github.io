@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /gurudev-visao-integrada
 title: "GuruDev: Uma Visão Integrada de Arquitetura de Backend e Linguagem de Programação"
 description: "Este documento explora a intersecção entre os princípios fundamentais da arquitetura de backend e a concepção inovadora da linguagem de programação GuruDev."
 ---
