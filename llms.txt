@@ -1,0 +1,43 @@
+# Guilherme Gonçalves Machado — publicações (Zenodo)
+
+> Índice das publicações de acesso aberto de Guilherme Gonçalves Machado (Rio de Janeiro, Brasil), fundador e CEO da Hubstry Deep Tech. São 23 registros depositados no Zenodo em 2026, cada um com DOI (Digital Object Identifier). Os temas são linguística, semiótica e morfologia; computação e IA; e direito, regulação e teoria do Estado. Os textos estão em português, inglês ou francês. Cada link abaixo leva à página do registro no Zenodo, onde ficam o PDF, os metadados e a citação.
+
+Autor: Guilherme Gonçalves Machado (nas citações: MACHADO, Guilherme Gonçalves).
+Perfil no Zenodo (busca por autor): https://zenodo.org/search?q=creators.name%3A%22Machado%2C%20Guilherme%22
+LinkedIn: https://www.linkedin.com/in/guilhermegoncalvesmachado/
+Site: https://hubstry.dev
+Atualizado em: 2026-11-20
+
+Para citar, use sempre o DOI. Formato: MACHADO, Guilherme Gonçalves. Título. Zenodo, ano. DOI.
+
+## Linguística, semiótica e morfologia
+
+- [Teoria Tridimensional do Morfema: Implementação Computacional](https://zenodo.org/records/18662347): software, 2026-02-16, DOI 10.5281/zenodo.18662347. Implementa uma teoria que analisa o morfema em três dimensões: largura (combinatório-derivacional), profundidade (hermenêutico-semântica) e altura (suprassegmental-gráfica). Aplicada a corpora de árabe corânico e hebraico bíblico.
+- [Semiografia](https://zenodo.org/records/18802603): working paper, 2026-02-27, DOI 10.5281/zenodo.18802603. Texto inaugural da Semiografia, procedimento teórico-metodológico de apreensão fenomenológica dos signos, em diálogo com Auerbach, Tesnière e Bakhtin.
+- [Morfologia Harmônica: Manifesto Fundacional](https://zenodo.org/records/19097971): working paper, 2026-03-18, DOI 10.5281/zenodo.19097971. Funda um campo que estuda princípios gerais de geração de formas em domínios linguísticos, musicais, geométricos e minerais.
+- [Morfossemiografia: O Morfema Afixal como Operador Epistemológico](https://zenodo.org/records/19184886): working paper, 2026-03-23, DOI 10.5281/zenodo.19184886. Primeiro desdobramento metodológico da Semiografia, centrado no afixo como operador de conhecimento.
+- [Grau Zero do Traço Manuscrito, polissemia e pensamento complexo via design](https://zenodo.org/records/19259666): working paper, 2026-03-27, DOI 10.5281/zenodo.19259666. Propõe o conceito de grau zero do traço: o estado do traço manuscrito antes de ser codificado em qualquer sistema de escrita.
+- [Instância Mínima Tripla: o gesto de escrita como fundamento pré-sistemático da polissemia constitutiva](https://zenodo.org/records/19431553): working paper v0.1, 2026-04-05, DOI 10.5281/zenodo.19431553. Analisa um único gesto de escrita cursiva que instancia ao mesmo tempo três signos, em diálogo com Peirce, Leroi-Gourhan e tradições caligráficas sufis e zen-budistas.
+- [SEMIOGRAFIA: Sistema Axiomático de Operações Semióticas sobre Matrizes N-Dimensionais de Signos](https://zenodo.org/records/19546051): working paper (em francês), 2026-04-12, DOI 10.5281/zenodo.19546051. Formaliza a Semiografia como sistema axiomático de operações sobre matrizes de signos, a partir de postulados da semiótica de Peirce.
+- [PANVIEIRA: Um Algoritmo Agnóstico para Instanciação de Série e Paralelo como Estrutura Semiótica Universal](https://zenodo.org/records/20367826): preprint, 2026-05-24, DOI 10.5281/zenodo.20367826. Formaliza um algoritmo extraído do paralelismo não progressivo dos Sermões do Padre Antônio Vieira, com destaque para o Sermão da Sexagésima.
+- [Teoria da Inflexão Cognitiva Analógica (TICA)](https://zenodo.org/records/20113888): preprint v0.1, 2026-05-10, DOI 10.5281/zenodo.20113888. Propõe uma teoria geral dos processos cognitivos humanos baseada em analogia, com meta-espaço semiótico e implementação computacional.
+- [Naturaglia — Uma Introdução](https://zenodo.org/records/18888646): preprint, 2026-03-06, DOI 10.5281/zenodo.18888646. Projeto filosófico que propõe reunificar sob um nome comum cinco disciplinas que a modernidade separou, começando por ciência natural e filosofia natural.
+
+## Computação, IA e sistemas
+
+- [Programação Comparada: Fundamentos para uma Ciência de Interface das Linguagens de Programação](https://zenodo.org/records/20028887): working paper, 2026-05-04, DOI 10.5281/zenodo.20028887. Formula os fundamentos conceituais, terminológicos e metodológicos da Programação Comparada, por analogia com a linguística comparada.
+- [Programação Comparada — Ciência Nova](https://zenodo.org/records/19963719): preprint, 2026-05-02, DOI 10.5281/zenodo.19963719. Reivindica para a Programação Comparada o estatuto de campo científico autônomo.
+- [Multiple Integrated Instantiation of Thought (IMIP): A Constitutional Architecture for General Artificial Intelligence](https://zenodo.org/records/19772798): preprint, 2026-04-25, DOI 10.5281/zenodo.19772798. Modelo formal em que um mesmo sujeito cognitivo opera ao mesmo tempo nas instâncias científica, artística e empreendedora, proposto como arquitetura para IA geral.
+- [Harmonic Protocol Grid (HPG 1.0)](https://zenodo.org/records/19056387): working paper, 2026-03-16, DOI 10.5281/zenodo.19056387. Protocolo de comunicação multicanal para sistemas embarcados, baseado em subdivisões racionais de uma frequência fundamental.
+- [Protocolo HMAL: Razões Harmônicas Racionais para Comunicação Acústica Subaquática e Programa de Pesquisa em Bioacústica](https://zenodo.org/records/24013319): preprint v1.0.1, 2026-11-06, DOI 10.5281/zenodo.24013319. Camada acústica marinha da Hubstry (Hubstry Marine Acoustic Layer) e programa de pesquisa em bioacústica. Substitui a versão 1.0.0.
+- [QUBO-VRP Hubstry: A Quantum-Ready Pipeline for Sustainable Fleet Route Optimization](https://zenodo.org/records/20467804): preprint, 2026-05-30, DOI 10.5281/zenodo.20467804. Pipeline preparado para computação quântica que resolve o roteamento de veículos com restrição de capacidade.
+
+## Direito, regulação, Estado e teoria
+
+- [Teoria Geral do Direito: Natural, Pancrônico e Comparado — Tomo I de II](https://zenodo.org/records/20597727): livro, 2026-06-08, DOI 10.5281/zenodo.20597727. Primeiro volume de um tratado que articula o direito em três eixos, incluindo um eixo pancrônico transposto da linguística de Ataliba de Castilho.
+- [A arquitetura brasileira de inteligência artificial: direitos, regulação, fomento, infraestrutura e soberania](https://zenodo.org/records/22050842): relatório, 2026-08-21, DOI 10.5281/zenodo.22050842. Documento de inteligência regulatória com data de corte em 21/08/2026; contesta o diagnóstico de "vazio regulatório" da IA no Brasil.
+- [REDATA, Soberania Digital e Soberania Energética](https://zenodo.org/records/22134863): working paper, 2026-08-28, DOI 10.5281/zenodo.22134863. Análise jurídico-institucional do Projeto de Lei nº 278/2026, que cria o regime especial de tributação para data centers (REDATA).
+- [Do Mando ao Sistema de Funções: os trinta anos do Estado Regulador brasileiro (1996–2026)](https://zenodo.org/records/21978602): preprint, 2026-08-17, DOI 10.5281/zenodo.21978602. Leitura teórica do Estado Regulador brasileiro a partir dos cinco deslocamentos do olhar político de Eusébio de Queiroz Lima.
+- [Regulação jurídica e inovação tecnológica no setor financeiro](https://zenodo.org/records/21247412): working paper, 2026-07-07, DOI 10.5281/zenodo.21247412. Usa o setor bancário para contestar a tese de que regulação jurídica sempre trava a inovação tecnológica.
+- [Do Sal ao Algoritmo: Teoria da Empresa como Instituição Civilizatória Pancrônica](https://zenodo.org/records/20285002): working paper, 2026-05-19, DOI 10.5281/zenodo.20285002. Teoria filosófica, histórica e econômica da empresa como instituição civilizatória.
+- [Teografia: Deus como Ideia Fundamental e Vazio Posicional — Primeira Linha Argumentativa](https://zenodo.org/records/19832888): preprint, 2026-04-28, DOI 10.5281/zenodo.19832888. Sistema teológico-filosófico que trata Deus como ideia fundamental indefinível, análoga às noções primitivas da matemática.
